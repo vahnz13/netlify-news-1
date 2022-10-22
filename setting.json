@@ -72,8 +72,7 @@
     {
       "name-element":"meta",
       "data-attribute":[
-        {
-          {
+        {          
           "name-attribute":"name",
           "value-attribute":"google-site-verification"
         },
